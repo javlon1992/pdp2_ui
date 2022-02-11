@@ -8,6 +8,8 @@ class NotePage extends StatefulWidget {
 
   const NotePage({Key? key}) : super(key: key);
 
+
+
   @override
   _NotePageState createState() => _NotePageState();
 }
